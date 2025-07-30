@@ -1,0 +1,43 @@
+#header {
+    background-color: rgb(100, 100, 140);
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav-bar {
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+}
+
+#header-img {
+    width: 10vw;
+}
+
+#speed-features {
+    display: flex;
+}
+
+#speed-features p {
+    width: 20%;
+}
+
+#speed-img {
+    width: 10%;
+}
+
+#ai-features {
+    display: flex;
+}
+
+#ai-img {
+    width: 10%;
+}
+
+#cooling-features {
+    display: flex;
+}
+
+#cooling-img {
+    width: 10%;
+}
